@@ -25,6 +25,7 @@
 ## 📫 Как связаться со мной
 - **Email**: [dv@collarslab.com](mailto:dv@collarslab.com)
 - **GitHub**: [github.com/dvrtnkv](https://github.com/dvrtnkv)
+- **Telegram**: [dmitrii_collars](https://t.me/dmitrii_collars)
 
 ## 💡 Ценности и цели
 1. **Комфорт семьи** — всегда на первом месте.
