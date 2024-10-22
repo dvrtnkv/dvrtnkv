@@ -7,8 +7,8 @@
 Я работаю с широким спектром технологий и постоянно развиваю свои навыки:
 
 - **Frontend**: Vue.js, Nuxt 3, Pinia, SPA/PWA, SCSS
-- **Backend**: Go (Gin), PostgreSQL, Redis
-- **DevOps**: Docker, Caddy, Bun, Linux, Bash, Git Actions
+- **Backend**: Go (Fiber), PostgreSQL, Redis
+- **DevOps**: Docker, Caddy, Bun, Linux, Bash, Git Actions, Gitlab
 - **Тестирование и сборка**: Vite, Nuxt Module, Git
 
 Я также люблю работать с архитектурами, которые включают современные технологии для создания высокопроизводительных и масштабируемых приложений.
