@@ -5,4 +5,4 @@ Collars Lab — открытый проект и в перспективе со�
 🛠 Стек: Nuxt, TailwindCSS, Go Fiber (in-memory), PostgreSQL, Linux, Docker, Caddy.
 💡 Ценности: безопасность семьи, польза и устойчивость IT-сервисов, вклад в общество.
 
-📫 dv@collarslab.com · http://github.com/dvrtnkv · http://t.me/dcollars
+📫 dv@collarslab.com · https://github.com/dvrtnkv · https://t.me/dcollars
